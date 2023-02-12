@@ -1,0 +1,1384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/jerry/Kicad Projects/crossover/crossover.kicad_sch</source>
+    <date>Sun 05 Feb 2023 02:14:59 PM IST</date>
+    <tool>Eeschema 6.0.7+dfsg-1~bpo11+1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>crossover.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Left Input Buffer/" tstamps="/87eeb169-ec39-4325-b98a-d89c839087c5/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>buffer.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Left HPF/" tstamps="/3cc5a9b3-0b38-4f73-8059-4b4ed0453094/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>hpf.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Right Input Buffer/" tstamps="/cd09c5f7-2b82-443b-9511-5215bae1a227/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>buffer.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/Left HPF/HPF stage 1/" tstamps="/3cc5a9b3-0b38-4f73-8059-4b4ed0453094/dae50590-4e4f-42fe-b7c9-e0e0ba94a145/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>hpf_1_stage.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/Left HPF/HPF Stage 2/" tstamps="/3cc5a9b3-0b38-4f73-8059-4b4ed0453094/b4ab64b4-4617-4eee-a838-7a71832e03e9/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>hpf_1_stage.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/Right HPF/" tstamps="/965c39b4-975b-4eb7-b838-2ecc6e0d6a35/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>hpf.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/Right HPF/HPF stage 1/" tstamps="/965c39b4-975b-4eb7-b838-2ecc6e0d6a35/dae50590-4e4f-42fe-b7c9-e0e0ba94a145/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>hpf_1_stage.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/Right HPF/HPF Stage 2/" tstamps="/965c39b4-975b-4eb7-b838-2ecc6e0d6a35/b4ab64b4-4617-4eee-a838-7a71832e03e9/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>hpf_1_stage.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="10" name="/Left LPF/" tstamps="/4179ae51-cf3a-4bce-929c-a59c2a13f09f/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lpf.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="11" name="/Left LPF/LPF Stage 1/" tstamps="/4179ae51-cf3a-4bce-929c-a59c2a13f09f/f3a16da1-c1d9-43a4-8a05-0965021b6865/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lpf 1 stage.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="12" name="/Left LPF/LPF Stage 2/" tstamps="/4179ae51-cf3a-4bce-929c-a59c2a13f09f/162d0e00-6252-4458-837d-88970c658cfc/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lpf 1 stage.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="13" name="/Right LPF/" tstamps="/8cd80f45-633d-420a-bdbe-39ad6abe5b0e/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lpf.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="14" name="/Right LPF/LPF Stage 1/" tstamps="/8cd80f45-633d-420a-bdbe-39ad6abe5b0e/f3a16da1-c1d9-43a4-8a05-0965021b6865/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lpf 1 stage.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="15" name="/Right LPF/LPF Stage 2/" tstamps="/8cd80f45-633d-420a-bdbe-39ad6abe5b0e/162d0e00-6252-4458-837d-88970c658cfc/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lpf 1 stage.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="16" name="/sub gain/" tstamps="/26fb0579-508e-4f39-8fcc-d72882569c12/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>gain.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="17" name="/Power/" tstamps="/71d523ed-d1c3-4d8e-9d3a-4faa4d6820b4/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>power.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="18" name="/Right gain/" tstamps="/8c997b3b-7bf2-44b2-ab14-da860701b424/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>gain.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="19" name="/Left Gain/" tstamps="/28472e3b-9819-48c0-b63f-39bc09c5cac5/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>gain.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>Power In</value>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="crossover.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b50d0987-6367-46d3-95b1-56e65ccc3a91</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Line In</value>
+      <libsource lib="Connector" part="Conn_01x03_Female" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="crossover.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0508b370-7655-4cfd-a078-84de8b6ac7f0</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Tweeter Out</value>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="crossover.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a7720b0-dc32-4818-8fb8-80c7775fcdfb</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Sub Out</value>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="crossover.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b49b9eb-08e9-4dc0-b807-707c1eaf304c</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="crossover.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66931836-1b75-455d-a148-56f37d364231</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="crossover.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf290886-7456-46f6-9b81-b1fab892e095</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Left Input Buffer"/>
+      <property name="Sheetfile" value="buffer.kicad_sch"/>
+      <sheetpath names="/Left Input Buffer/" tstamps="/87eeb169-ec39-4325-b98a-d89c839087c5/"/>
+      <tstamps>3d4a172a-be2d-4110-9922-2b68d1755ddf</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>100K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Left Input Buffer"/>
+      <property name="Sheetfile" value="buffer.kicad_sch"/>
+      <sheetpath names="/Left Input Buffer/" tstamps="/87eeb169-ec39-4325-b98a-d89c839087c5/"/>
+      <tstamps>a20a67ad-d6a1-4a00-85f1-bb3864659f05</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>TL072</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="TL072" description="Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
+      <property name="Sheetname" value="Left Input Buffer"/>
+      <property name="Sheetfile" value="buffer.kicad_sch"/>
+      <sheetpath names="/Left Input Buffer/" tstamps="/87eeb169-ec39-4325-b98a-d89c839087c5/"/>
+      <tstamps>0c33cd70-ebd7-4f01-b33d-b6dee68b2571</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Right Input Buffer"/>
+      <property name="Sheetfile" value="buffer.kicad_sch"/>
+      <sheetpath names="/Right Input Buffer/" tstamps="/cd09c5f7-2b82-443b-9511-5215bae1a227/"/>
+      <tstamps>3d4a172a-be2d-4110-9922-2b68d1755ddf</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>100K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Right Input Buffer"/>
+      <property name="Sheetfile" value="buffer.kicad_sch"/>
+      <sheetpath names="/Right Input Buffer/" tstamps="/cd09c5f7-2b82-443b-9511-5215bae1a227/"/>
+      <tstamps>a20a67ad-d6a1-4a00-85f1-bb3864659f05</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>33nf</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="HPF stage 1"/>
+      <property name="Sheetfile" value="hpf_1_stage.kicad_sch"/>
+      <sheetpath names="/Left HPF/HPF stage 1/" tstamps="/3cc5a9b3-0b38-4f73-8059-4b4ed0453094/dae50590-4e4f-42fe-b7c9-e0e0ba94a145/"/>
+      <tstamps>8e540ba4-e751-4a8a-a0c2-c21733239cad</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>33nf</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="HPF stage 1"/>
+      <property name="Sheetfile" value="hpf_1_stage.kicad_sch"/>
+      <sheetpath names="/Left HPF/HPF stage 1/" tstamps="/3cc5a9b3-0b38-4f73-8059-4b4ed0453094/dae50590-4e4f-42fe-b7c9-e0e0ba94a145/"/>
+      <tstamps>7fec665b-ac14-4a8c-a013-7629e3b7caac</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>56K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="HPF stage 1"/>
+      <property name="Sheetfile" value="hpf_1_stage.kicad_sch"/>
+      <sheetpath names="/Left HPF/HPF stage 1/" tstamps="/3cc5a9b3-0b38-4f73-8059-4b4ed0453094/dae50590-4e4f-42fe-b7c9-e0e0ba94a145/"/>
+      <tstamps>ec9f44c2-85c5-4823-a5b2-3357f0b1275f</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>27K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="HPF stage 1"/>
+      <property name="Sheetfile" value="hpf_1_stage.kicad_sch"/>
+      <sheetpath names="/Left HPF/HPF stage 1/" tstamps="/3cc5a9b3-0b38-4f73-8059-4b4ed0453094/dae50590-4e4f-42fe-b7c9-e0e0ba94a145/"/>
+      <tstamps>d015c3b7-e2d0-4b77-918a-b40b99860f4e</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>TL072</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="TL072" description="Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
+      <property name="Sheetname" value="HPF stage 1"/>
+      <property name="Sheetfile" value="hpf_1_stage.kicad_sch"/>
+      <sheetpath names="/Left HPF/HPF stage 1/" tstamps="/3cc5a9b3-0b38-4f73-8059-4b4ed0453094/dae50590-4e4f-42fe-b7c9-e0e0ba94a145/"/>
+      <tstamps>8652fe3c-236f-4a1a-beff-db039ec28449</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>33nf</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="HPF Stage 2"/>
+      <property name="Sheetfile" value="hpf_1_stage.kicad_sch"/>
+      <sheetpath names="/Left HPF/HPF Stage 2/" tstamps="/3cc5a9b3-0b38-4f73-8059-4b4ed0453094/b4ab64b4-4617-4eee-a838-7a71832e03e9/"/>
+      <tstamps>8e540ba4-e751-4a8a-a0c2-c21733239cad</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>33nf</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="HPF Stage 2"/>
+      <property name="Sheetfile" value="hpf_1_stage.kicad_sch"/>
+      <sheetpath names="/Left HPF/HPF Stage 2/" tstamps="/3cc5a9b3-0b38-4f73-8059-4b4ed0453094/b4ab64b4-4617-4eee-a838-7a71832e03e9/"/>
+      <tstamps>7fec665b-ac14-4a8c-a013-7629e3b7caac</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>56K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="HPF Stage 2"/>
+      <property name="Sheetfile" value="hpf_1_stage.kicad_sch"/>
+      <sheetpath names="/Left HPF/HPF Stage 2/" tstamps="/3cc5a9b3-0b38-4f73-8059-4b4ed0453094/b4ab64b4-4617-4eee-a838-7a71832e03e9/"/>
+      <tstamps>ec9f44c2-85c5-4823-a5b2-3357f0b1275f</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>27K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="HPF Stage 2"/>
+      <property name="Sheetfile" value="hpf_1_stage.kicad_sch"/>
+      <sheetpath names="/Left HPF/HPF Stage 2/" tstamps="/3cc5a9b3-0b38-4f73-8059-4b4ed0453094/b4ab64b4-4617-4eee-a838-7a71832e03e9/"/>
+      <tstamps>d015c3b7-e2d0-4b77-918a-b40b99860f4e</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>33nf</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="HPF stage 1"/>
+      <property name="Sheetfile" value="hpf_1_stage.kicad_sch"/>
+      <sheetpath names="/Right HPF/HPF stage 1/" tstamps="/965c39b4-975b-4eb7-b838-2ecc6e0d6a35/dae50590-4e4f-42fe-b7c9-e0e0ba94a145/"/>
+      <tstamps>8e540ba4-e751-4a8a-a0c2-c21733239cad</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>33nf</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="HPF stage 1"/>
+      <property name="Sheetfile" value="hpf_1_stage.kicad_sch"/>
+      <sheetpath names="/Right HPF/HPF stage 1/" tstamps="/965c39b4-975b-4eb7-b838-2ecc6e0d6a35/dae50590-4e4f-42fe-b7c9-e0e0ba94a145/"/>
+      <tstamps>7fec665b-ac14-4a8c-a013-7629e3b7caac</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>56K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="HPF stage 1"/>
+      <property name="Sheetfile" value="hpf_1_stage.kicad_sch"/>
+      <sheetpath names="/Right HPF/HPF stage 1/" tstamps="/965c39b4-975b-4eb7-b838-2ecc6e0d6a35/dae50590-4e4f-42fe-b7c9-e0e0ba94a145/"/>
+      <tstamps>ec9f44c2-85c5-4823-a5b2-3357f0b1275f</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>27K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="HPF stage 1"/>
+      <property name="Sheetfile" value="hpf_1_stage.kicad_sch"/>
+      <sheetpath names="/Right HPF/HPF stage 1/" tstamps="/965c39b4-975b-4eb7-b838-2ecc6e0d6a35/dae50590-4e4f-42fe-b7c9-e0e0ba94a145/"/>
+      <tstamps>d015c3b7-e2d0-4b77-918a-b40b99860f4e</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>TL072</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="TL072" description="Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
+      <property name="Sheetname" value="HPF stage 1"/>
+      <property name="Sheetfile" value="hpf_1_stage.kicad_sch"/>
+      <sheetpath names="/Right HPF/HPF stage 1/" tstamps="/965c39b4-975b-4eb7-b838-2ecc6e0d6a35/dae50590-4e4f-42fe-b7c9-e0e0ba94a145/"/>
+      <tstamps>8652fe3c-236f-4a1a-beff-db039ec28449</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>33nf</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="HPF Stage 2"/>
+      <property name="Sheetfile" value="hpf_1_stage.kicad_sch"/>
+      <sheetpath names="/Right HPF/HPF Stage 2/" tstamps="/965c39b4-975b-4eb7-b838-2ecc6e0d6a35/b4ab64b4-4617-4eee-a838-7a71832e03e9/"/>
+      <tstamps>8e540ba4-e751-4a8a-a0c2-c21733239cad</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>33nf</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="HPF Stage 2"/>
+      <property name="Sheetfile" value="hpf_1_stage.kicad_sch"/>
+      <sheetpath names="/Right HPF/HPF Stage 2/" tstamps="/965c39b4-975b-4eb7-b838-2ecc6e0d6a35/b4ab64b4-4617-4eee-a838-7a71832e03e9/"/>
+      <tstamps>7fec665b-ac14-4a8c-a013-7629e3b7caac</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>56K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="HPF Stage 2"/>
+      <property name="Sheetfile" value="hpf_1_stage.kicad_sch"/>
+      <sheetpath names="/Right HPF/HPF Stage 2/" tstamps="/965c39b4-975b-4eb7-b838-2ecc6e0d6a35/b4ab64b4-4617-4eee-a838-7a71832e03e9/"/>
+      <tstamps>ec9f44c2-85c5-4823-a5b2-3357f0b1275f</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>27K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="HPF Stage 2"/>
+      <property name="Sheetfile" value="hpf_1_stage.kicad_sch"/>
+      <sheetpath names="/Right HPF/HPF Stage 2/" tstamps="/965c39b4-975b-4eb7-b838-2ecc6e0d6a35/b4ab64b4-4617-4eee-a838-7a71832e03e9/"/>
+      <tstamps>d015c3b7-e2d0-4b77-918a-b40b99860f4e</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>66nf</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="LPF Stage 1"/>
+      <property name="Sheetfile" value="lpf 1 stage.kicad_sch"/>
+      <sheetpath names="/Left LPF/LPF Stage 1/" tstamps="/4179ae51-cf3a-4bce-929c-a59c2a13f09f/f3a16da1-c1d9-43a4-8a05-0965021b6865/"/>
+      <tstamps>08c7d983-a967-43a9-8c1c-5373dc780223</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>33nf</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="LPF Stage 1"/>
+      <property name="Sheetfile" value="lpf 1 stage.kicad_sch"/>
+      <sheetpath names="/Left LPF/LPF Stage 1/" tstamps="/4179ae51-cf3a-4bce-929c-a59c2a13f09f/f3a16da1-c1d9-43a4-8a05-0965021b6865/"/>
+      <tstamps>c349726a-4eeb-482f-b66f-69fdc0c582fc</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>27K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="LPF Stage 1"/>
+      <property name="Sheetfile" value="lpf 1 stage.kicad_sch"/>
+      <sheetpath names="/Left LPF/LPF Stage 1/" tstamps="/4179ae51-cf3a-4bce-929c-a59c2a13f09f/f3a16da1-c1d9-43a4-8a05-0965021b6865/"/>
+      <tstamps>74184c60-362f-418b-85ec-3860945401e3</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>27K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="LPF Stage 1"/>
+      <property name="Sheetfile" value="lpf 1 stage.kicad_sch"/>
+      <sheetpath names="/Left LPF/LPF Stage 1/" tstamps="/4179ae51-cf3a-4bce-929c-a59c2a13f09f/f3a16da1-c1d9-43a4-8a05-0965021b6865/"/>
+      <tstamps>f93ffc90-9391-4e83-867a-652f087d7f04</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>TL072</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="TL072" description="Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
+      <property name="Sheetname" value="LPF Stage 1"/>
+      <property name="Sheetfile" value="lpf 1 stage.kicad_sch"/>
+      <sheetpath names="/Left LPF/LPF Stage 1/" tstamps="/4179ae51-cf3a-4bce-929c-a59c2a13f09f/f3a16da1-c1d9-43a4-8a05-0965021b6865/"/>
+      <tstamps>1c55ca5e-69d0-4b50-b4ae-b453ded48e66</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>66nf</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="LPF Stage 2"/>
+      <property name="Sheetfile" value="lpf 1 stage.kicad_sch"/>
+      <sheetpath names="/Left LPF/LPF Stage 2/" tstamps="/4179ae51-cf3a-4bce-929c-a59c2a13f09f/162d0e00-6252-4458-837d-88970c658cfc/"/>
+      <tstamps>08c7d983-a967-43a9-8c1c-5373dc780223</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>33nf</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="LPF Stage 2"/>
+      <property name="Sheetfile" value="lpf 1 stage.kicad_sch"/>
+      <sheetpath names="/Left LPF/LPF Stage 2/" tstamps="/4179ae51-cf3a-4bce-929c-a59c2a13f09f/162d0e00-6252-4458-837d-88970c658cfc/"/>
+      <tstamps>c349726a-4eeb-482f-b66f-69fdc0c582fc</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>27K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="LPF Stage 2"/>
+      <property name="Sheetfile" value="lpf 1 stage.kicad_sch"/>
+      <sheetpath names="/Left LPF/LPF Stage 2/" tstamps="/4179ae51-cf3a-4bce-929c-a59c2a13f09f/162d0e00-6252-4458-837d-88970c658cfc/"/>
+      <tstamps>74184c60-362f-418b-85ec-3860945401e3</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>27K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="LPF Stage 2"/>
+      <property name="Sheetfile" value="lpf 1 stage.kicad_sch"/>
+      <sheetpath names="/Left LPF/LPF Stage 2/" tstamps="/4179ae51-cf3a-4bce-929c-a59c2a13f09f/162d0e00-6252-4458-837d-88970c658cfc/"/>
+      <tstamps>f93ffc90-9391-4e83-867a-652f087d7f04</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>66nf</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="LPF Stage 1"/>
+      <property name="Sheetfile" value="lpf 1 stage.kicad_sch"/>
+      <sheetpath names="/Right LPF/LPF Stage 1/" tstamps="/8cd80f45-633d-420a-bdbe-39ad6abe5b0e/f3a16da1-c1d9-43a4-8a05-0965021b6865/"/>
+      <tstamps>08c7d983-a967-43a9-8c1c-5373dc780223</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>33nf</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="LPF Stage 1"/>
+      <property name="Sheetfile" value="lpf 1 stage.kicad_sch"/>
+      <sheetpath names="/Right LPF/LPF Stage 1/" tstamps="/8cd80f45-633d-420a-bdbe-39ad6abe5b0e/f3a16da1-c1d9-43a4-8a05-0965021b6865/"/>
+      <tstamps>c349726a-4eeb-482f-b66f-69fdc0c582fc</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>27K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="LPF Stage 1"/>
+      <property name="Sheetfile" value="lpf 1 stage.kicad_sch"/>
+      <sheetpath names="/Right LPF/LPF Stage 1/" tstamps="/8cd80f45-633d-420a-bdbe-39ad6abe5b0e/f3a16da1-c1d9-43a4-8a05-0965021b6865/"/>
+      <tstamps>74184c60-362f-418b-85ec-3860945401e3</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>27K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="LPF Stage 1"/>
+      <property name="Sheetfile" value="lpf 1 stage.kicad_sch"/>
+      <sheetpath names="/Right LPF/LPF Stage 1/" tstamps="/8cd80f45-633d-420a-bdbe-39ad6abe5b0e/f3a16da1-c1d9-43a4-8a05-0965021b6865/"/>
+      <tstamps>f93ffc90-9391-4e83-867a-652f087d7f04</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>TL072</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="TL072" description="Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
+      <property name="Sheetname" value="LPF Stage 1"/>
+      <property name="Sheetfile" value="lpf 1 stage.kicad_sch"/>
+      <sheetpath names="/Right LPF/LPF Stage 1/" tstamps="/8cd80f45-633d-420a-bdbe-39ad6abe5b0e/f3a16da1-c1d9-43a4-8a05-0965021b6865/"/>
+      <tstamps>1c55ca5e-69d0-4b50-b4ae-b453ded48e66</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>66nf</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="LPF Stage 2"/>
+      <property name="Sheetfile" value="lpf 1 stage.kicad_sch"/>
+      <sheetpath names="/Right LPF/LPF Stage 2/" tstamps="/8cd80f45-633d-420a-bdbe-39ad6abe5b0e/162d0e00-6252-4458-837d-88970c658cfc/"/>
+      <tstamps>08c7d983-a967-43a9-8c1c-5373dc780223</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>33nf</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="LPF Stage 2"/>
+      <property name="Sheetfile" value="lpf 1 stage.kicad_sch"/>
+      <sheetpath names="/Right LPF/LPF Stage 2/" tstamps="/8cd80f45-633d-420a-bdbe-39ad6abe5b0e/162d0e00-6252-4458-837d-88970c658cfc/"/>
+      <tstamps>c349726a-4eeb-482f-b66f-69fdc0c582fc</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>27K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="LPF Stage 2"/>
+      <property name="Sheetfile" value="lpf 1 stage.kicad_sch"/>
+      <sheetpath names="/Right LPF/LPF Stage 2/" tstamps="/8cd80f45-633d-420a-bdbe-39ad6abe5b0e/162d0e00-6252-4458-837d-88970c658cfc/"/>
+      <tstamps>74184c60-362f-418b-85ec-3860945401e3</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>27K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="LPF Stage 2"/>
+      <property name="Sheetfile" value="lpf 1 stage.kicad_sch"/>
+      <sheetpath names="/Right LPF/LPF Stage 2/" tstamps="/8cd80f45-633d-420a-bdbe-39ad6abe5b0e/162d0e00-6252-4458-837d-88970c658cfc/"/>
+      <tstamps>f93ffc90-9391-4e83-867a-652f087d7f04</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>10k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sub gain"/>
+      <property name="Sheetfile" value="gain.kicad_sch"/>
+      <sheetpath names="/sub gain/" tstamps="/26fb0579-508e-4f39-8fcc-d72882569c12/"/>
+      <tstamps>aa91ea21-8013-45f0-81dc-f9b233ebed3d</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>5k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sub gain"/>
+      <property name="Sheetfile" value="gain.kicad_sch"/>
+      <sheetpath names="/sub gain/" tstamps="/26fb0579-508e-4f39-8fcc-d72882569c12/"/>
+      <tstamps>f4a25671-2fbf-4709-9e45-4cee776e79c3</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>100</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="sub gain"/>
+      <property name="Sheetfile" value="gain.kicad_sch"/>
+      <sheetpath names="/sub gain/" tstamps="/26fb0579-508e-4f39-8fcc-d72882569c12/"/>
+      <tstamps>f6db2cd5-903b-4b8a-a1c2-83eb87763e48</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>10K</value>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value="sub gain"/>
+      <property name="Sheetfile" value="gain.kicad_sch"/>
+      <sheetpath names="/sub gain/" tstamps="/26fb0579-508e-4f39-8fcc-d72882569c12/"/>
+      <tstamps>8a95438a-d503-4c7d-ab22-a33ca2586232</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>TL072</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="TL072" description="Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
+      <property name="Sheetname" value="sub gain"/>
+      <property name="Sheetfile" value="gain.kicad_sch"/>
+      <sheetpath names="/sub gain/" tstamps="/26fb0579-508e-4f39-8fcc-d72882569c12/"/>
+      <tstamps>1269f9a2-f185-412e-bfc7-85e400237e5f</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100n</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/71d523ed-d1c3-4d8e-9d3a-4faa4d6820b4/"/>
+      <tstamps>880c5e55-0627-4040-b756-86d01050d29f</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>10u</value>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/71d523ed-d1c3-4d8e-9d3a-4faa4d6820b4/"/>
+      <tstamps>e1a04fc7-e8a0-4650-a962-6ba588cc0138</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>10u</value>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/71d523ed-d1c3-4d8e-9d3a-4faa4d6820b4/"/>
+      <tstamps>b33e0008-d123-455b-b7be-0b025593cb07</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>100n</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/71d523ed-d1c3-4d8e-9d3a-4faa4d6820b4/"/>
+      <tstamps>3a6c4c32-67d2-4a2b-b834-f8812b5d23b8</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>100n</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/71d523ed-d1c3-4d8e-9d3a-4faa4d6820b4/"/>
+      <tstamps>87200cbd-4cff-49b7-9ef3-5e3281d2aabf</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>100n</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/71d523ed-d1c3-4d8e-9d3a-4faa4d6820b4/"/>
+      <tstamps>9980f62d-ad8a-4c61-98c0-f4e1a52545b7</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>100n</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/71d523ed-d1c3-4d8e-9d3a-4faa4d6820b4/"/>
+      <tstamps>28a1c655-2e4b-405e-98ad-ae5bf23c1f34</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>100n</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/71d523ed-d1c3-4d8e-9d3a-4faa4d6820b4/"/>
+      <tstamps>0ba98492-4cf6-4108-84b7-5ca540e536a4</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>100n</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/71d523ed-d1c3-4d8e-9d3a-4faa4d6820b4/"/>
+      <tstamps>6e3b9fcc-681c-4aa4-b914-060fc1051bd8</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>10K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/71d523ed-d1c3-4d8e-9d3a-4faa4d6820b4/"/>
+      <tstamps>4e59892a-aaf6-4ec6-bf80-0b05ca2e5ca2</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>10K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/71d523ed-d1c3-4d8e-9d3a-4faa4d6820b4/"/>
+      <tstamps>3b5e6cc0-a3f2-489c-96e0-c3ba7630d0aa</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>10k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Right gain"/>
+      <property name="Sheetfile" value="gain.kicad_sch"/>
+      <sheetpath names="/Right gain/" tstamps="/8c997b3b-7bf2-44b2-ab14-da860701b424/"/>
+      <tstamps>aa91ea21-8013-45f0-81dc-f9b233ebed3d</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>5k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Right gain"/>
+      <property name="Sheetfile" value="gain.kicad_sch"/>
+      <sheetpath names="/Right gain/" tstamps="/8c997b3b-7bf2-44b2-ab14-da860701b424/"/>
+      <tstamps>f4a25671-2fbf-4709-9e45-4cee776e79c3</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>100</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Right gain"/>
+      <property name="Sheetfile" value="gain.kicad_sch"/>
+      <sheetpath names="/Right gain/" tstamps="/8c997b3b-7bf2-44b2-ab14-da860701b424/"/>
+      <tstamps>f6db2cd5-903b-4b8a-a1c2-83eb87763e48</tstamps>
+    </comp>
+    <comp ref="RV2">
+      <value>10K</value>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value="Right gain"/>
+      <property name="Sheetfile" value="gain.kicad_sch"/>
+      <sheetpath names="/Right gain/" tstamps="/8c997b3b-7bf2-44b2-ab14-da860701b424/"/>
+      <tstamps>8a95438a-d503-4c7d-ab22-a33ca2586232</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>TL072</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="TL072" description="Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
+      <property name="Sheetname" value="Right gain"/>
+      <property name="Sheetfile" value="gain.kicad_sch"/>
+      <sheetpath names="/Right gain/" tstamps="/8c997b3b-7bf2-44b2-ab14-da860701b424/"/>
+      <tstamps>1269f9a2-f185-412e-bfc7-85e400237e5f</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>10k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Left Gain"/>
+      <property name="Sheetfile" value="gain.kicad_sch"/>
+      <sheetpath names="/Left Gain/" tstamps="/28472e3b-9819-48c0-b63f-39bc09c5cac5/"/>
+      <tstamps>aa91ea21-8013-45f0-81dc-f9b233ebed3d</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>5k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Left Gain"/>
+      <property name="Sheetfile" value="gain.kicad_sch"/>
+      <sheetpath names="/Left Gain/" tstamps="/28472e3b-9819-48c0-b63f-39bc09c5cac5/"/>
+      <tstamps>f4a25671-2fbf-4709-9e45-4cee776e79c3</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>100</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Left Gain"/>
+      <property name="Sheetfile" value="gain.kicad_sch"/>
+      <sheetpath names="/Left Gain/" tstamps="/28472e3b-9819-48c0-b63f-39bc09c5cac5/"/>
+      <tstamps>f6db2cd5-903b-4b8a-a1c2-83eb87763e48</tstamps>
+    </comp>
+    <comp ref="RV3">
+      <value>10K</value>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value="Left Gain"/>
+      <property name="Sheetfile" value="gain.kicad_sch"/>
+      <sheetpath names="/Left Gain/" tstamps="/28472e3b-9819-48c0-b63f-39bc09c5cac5/"/>
+      <tstamps>8a95438a-d503-4c7d-ab22-a33ca2586232</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>TL072</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="TL072" description="Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
+      <property name="Sheetname" value="Left Gain"/>
+      <property name="Sheetfile" value="gain.kicad_sch"/>
+      <sheetpath names="/Left Gain/" tstamps="/28472e3b-9819-48c0-b63f-39bc09c5cac5/"/>
+      <tstamps>1269f9a2-f185-412e-bfc7-85e400237e5f</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Amplifier_Operational" part="TL072">
+      <description>Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tl071.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TO*99*</fp>
+        <fp>OnSemi*Micro8*</fp>
+        <fp>TSSOP*3x3mm*P0.65mm*</fp>
+        <fp>TSSOP*4.4x3mm*P0.65mm*</fp>
+        <fp>MSOP*3x3mm*P0.65mm*</fp>
+        <fp>SSOP*3.9x4.9mm*P0.635mm*</fp>
+        <fp>LFCSP*2x2mm*P0.5mm*</fp>
+        <fp>*SIP*</fp>
+        <fp>SOIC*5.3x6.2mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TL072</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tl071.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x02_Male">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x03_Female">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Female</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x03_Male">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer">
+      <description>Potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Amplifier_Operational">
+      <uri>/usr/share/kicad/symbols//Amplifier_Operational.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/Left Gain/in">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="-" pintype="input"/>
+      <node ref="U2" pin="7" pintype="output"/>
+      <node ref="U8" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="2" name="/Left Gain/out">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+    </net>
+    <net code="3" name="/Left HPF/HPF Stage 2/in">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pintype="output"/>
+      <node ref="U2" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="4" name="/Left HPF/in">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pintype="output"/>
+      <node ref="U1" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="5" name="/Left Input Buffer/In">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="/Left LPF/LPF Stage 1/out">
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U4" pin="1" pintype="output"/>
+      <node ref="U4" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="7" name="/Left LPF/out">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="-" pintype="input"/>
+      <node ref="U4" pin="7" pintype="output"/>
+    </net>
+    <net code="8" name="/Right HPF/HPF Stage 2/in">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U3" pin="1" pintype="output"/>
+      <node ref="U3" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="9" name="/Right HPF/in">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="-" pintype="input"/>
+      <node ref="U1" pin="7" pintype="output"/>
+    </net>
+    <net code="10" name="/Right HPF/out">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="-" pintype="input"/>
+      <node ref="U3" pin="7" pintype="output"/>
+      <node ref="U7" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="11" name="/Right Input Buffer/In">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="/Right LPF/LPF Stage 1/out">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="U5" pin="1" pintype="output"/>
+      <node ref="U5" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="13" name="/Right LPF/out">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U5" pin="6" pinfunction="-" pintype="input"/>
+      <node ref="U5" pin="7" pintype="output"/>
+    </net>
+    <net code="14" name="/Right gain/out">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+    </net>
+    <net code="15" name="/sub gain/in">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="16" name="/sub gain/out">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="GNDREF">
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(C7-Pad2)">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(C9-Pad1)">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(C11-Pad1)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(C12-Pad1)">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(R16-Pad2)">
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="27" name="Net-(R18-Pad2)">
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(R20-Pad2)">
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="29" name="Net-(R22-Pad2)">
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="U5" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="30" name="Net-(R29-Pad1)">
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="RV2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U7" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="31" name="Net-(R30-Pad1)">
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="RV2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U7" pin="1" pintype="output"/>
+    </net>
+    <net code="32" name="Net-(R32-Pad1)">
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="RV3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U8" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="33" name="Net-(R33-Pad1)">
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="RV3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U8" pin="1" pintype="output"/>
+    </net>
+    <net code="34" name="Net-(RV1-Pad2)">
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U6" pin="1" pintype="output"/>
+    </net>
+    <net code="35" name="Net-(U1-Pad3)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="36" name="Net-(U1-Pad5)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="37" name="Net-(U2-Pad3)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="38" name="Net-(U2-Pad5)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="39" name="Net-(U3-Pad3)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="40" name="Net-(U3-Pad5)">
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="41" name="Net-(U6-Pad2)">
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="RV1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="42" name="VCC">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="U2" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="U3" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="U4" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="U5" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="U6" pin="8" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="43" name="VDD">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U2" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U3" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U4" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U5" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U6" pin="4" pinfunction="V-" pintype="power_in"/>
+    </net>
+    <net code="44" name="unconnected-(RV1-Pad3)">
+      <node ref="RV1" pin="3" pinfunction="3" pintype="passive+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(RV2-Pad3)">
+      <node ref="RV2" pin="3" pinfunction="3" pintype="passive+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(RV3-Pad3)">
+      <node ref="RV3" pin="3" pinfunction="3" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
