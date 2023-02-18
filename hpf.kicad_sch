@@ -18,7 +18,7 @@
   )
   (wire (pts (xy 187.96 57.15) (xy 194.31 57.15))
     (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid ef8d5ee9-13fa-49c9-985c-d608debce975)
+    (uuid d645c9e4-f57f-4e7e-92ed-de30eb3a3cd5)
   )
 
   (hierarchical_label "in" (shape input) (at 90.17 60.96 180)
