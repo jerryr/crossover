@@ -515,6 +515,10 @@
     [
       "28472e3b-9819-48c0-b63f-39bc09c5cac5",
       "Left Gain"
+    ],
+    [
+      "6a6e002a-0565-47d4-a8fe-a1e284818334",
+      "Sub Gain Stereo"
     ]
   ],
   "text_variables": {}
