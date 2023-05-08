@@ -531,6 +531,7 @@
     )
   )
 
+
   (junction (at 146.05 121.92) (diameter 0) (color 0 0 0 0)
     (uuid 70fab47a-bf00-4a8c-b44e-ba434393f15a)
   )
@@ -807,7 +808,7 @@
   (symbol (lib_id "power:VDD") (at 264.16 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2e9717d4-36b5-40de-a054-856d0fe7a76c)
-    (property "Reference" "#PWR02" (at 264.16 121.92 0)
+    (property "Reference" "#PWR03" (at 264.16 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 264.16 113.03 0)
@@ -823,7 +824,7 @@
     (instances
       (project "crossover"
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5"
-          (reference "#PWR02") (unit 1)
+          (reference "#PWR03") (unit 1)
         )
       )
     )
@@ -911,7 +912,7 @@
   (symbol (lib_id "power:GNDREF") (at 245.11 154.94 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 680b7fdd-ab47-4a2a-ba3a-c3f41c9fd5c6)
-    (property "Reference" "#PWR036" (at 245.11 161.29 0)
+    (property "Reference" "#PWR02" (at 245.11 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 245.11 160.02 0)
@@ -927,7 +928,7 @@
     (instances
       (project "crossover"
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5"
-          (reference "#PWR036") (unit 1)
+          (reference "#PWR02") (unit 1)
         )
       )
     )
@@ -936,7 +937,7 @@
   (symbol (lib_id "Device:R") (at 241.3 142.24 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8fa59eac-cf73-4021-a7ba-1d87d3d4e452)
-    (property "Reference" "R6" (at 241.3 137.16 90)
+    (property "Reference" "R3" (at 241.3 137.16 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100" (at 241.3 139.7 90)
@@ -953,7 +954,7 @@
     (instances
       (project "crossover"
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5"
-          (reference "R6") (unit 1)
+          (reference "R3") (unit 1)
         )
       )
     )
@@ -1067,7 +1068,7 @@
   (symbol (lib_id "power:VDD") (at 271.78 53.34 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cb35610f-930f-4521-a6f2-989fdf02b09f)
-    (property "Reference" "#PWR03" (at 271.78 49.53 0)
+    (property "Reference" "#PWR04" (at 271.78 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 271.78 58.42 0)
@@ -1083,7 +1084,7 @@
     (instances
       (project "crossover"
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5"
-          (reference "#PWR03") (unit 1)
+          (reference "#PWR04") (unit 1)
         )
       )
     )

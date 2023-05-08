@@ -366,6 +366,7 @@
     )
   )
 
+
   (junction (at 116.84 68.58) (diameter 0) (color 0 0 0 0)
     (uuid 10f1a526-80e4-461b-ab7e-6f29c03653a2)
   )
@@ -458,7 +459,7 @@
   (symbol (lib_id "power:VDD") (at 135.89 86.36 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0628cf4a-f97f-40d5-88cc-d8dc41eb4fa3)
-    (property "Reference" "#PWR035" (at 135.89 82.55 0)
+    (property "Reference" "#PWR042" (at 135.89 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (at 135.89 91.44 0)
@@ -474,16 +475,16 @@
     (instances
       (project "crossover"
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/28472e3b-9819-48c0-b63f-39bc09c5cac5"
-          (reference "#PWR035") (unit 1)
+          (reference "#PWR042") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/26fb0579-508e-4f39-8fcc-d72882569c12"
-          (reference "#PWR04") (unit 1)
+          (reference "#PWR019") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/8c997b3b-7bf2-44b2-ab14-da860701b424"
-          (reference "#PWR05") (unit 1)
+          (reference "#PWR039") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/6a6e002a-0565-47d4-a8fe-a1e284818334"
-          (reference "#PWR04") (unit 1)
+          (reference "#PWR045") (unit 1)
         )
       )
     )
@@ -533,7 +534,7 @@
   (symbol (lib_id "Device:R") (at 135.89 74.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 21db758f-4da0-4ede-9875-b6ffc59fa3d8)
-    (property "Reference" "R5" (at 138.43 74.295 0)
+    (property "Reference" "R41" (at 138.43 74.295 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4.7K" (at 138.43 76.835 0)
@@ -550,16 +551,16 @@
     (instances
       (project "crossover"
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/28472e3b-9819-48c0-b63f-39bc09c5cac5"
-          (reference "R5") (unit 1)
+          (reference "R41") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/26fb0579-508e-4f39-8fcc-d72882569c12"
-          (reference "R3") (unit 1)
+          (reference "R29") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/8c997b3b-7bf2-44b2-ab14-da860701b424"
-          (reference "R4") (unit 1)
+          (reference "R37") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/6a6e002a-0565-47d4-a8fe-a1e284818334"
-          (reference "R3") (unit 1)
+          (reference "R45") (unit 1)
         )
       )
     )
@@ -568,7 +569,7 @@
   (symbol (lib_id "Device:C_Polarized_US") (at 130.81 68.58 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 53e431ca-da00-4705-8f62-871487277e68)
-    (property "Reference" "C37" (at 130.175 62.23 90)
+    (property "Reference" "C34" (at 130.175 62.23 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "2.2U" (at 130.175 64.77 90)
@@ -585,16 +586,16 @@
     (instances
       (project "crossover"
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/28472e3b-9819-48c0-b63f-39bc09c5cac5"
-          (reference "C37") (unit 1)
+          (reference "C34") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/26fb0579-508e-4f39-8fcc-d72882569c12"
-          (reference "C28") (unit 1)
+          (reference "C21") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/8c997b3b-7bf2-44b2-ab14-da860701b424"
-          (reference "C29") (unit 1)
+          (reference "C33") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/6a6e002a-0565-47d4-a8fe-a1e284818334"
-          (reference "C28") (unit 1)
+          (reference "C35") (unit 1)
         )
       )
     )
@@ -630,7 +631,7 @@
           (reference "RV1") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/6a6e002a-0565-47d4-a8fe-a1e284818334"
-          (reference "RV1") (unit 1)
+          (reference "RV4") (unit 1)
         )
       )
     )
@@ -639,7 +640,7 @@
   (symbol (lib_id "Device:R") (at 71.12 72.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid aa91ea21-8013-45f0-81dc-f9b233ebed3d)
-    (property "Reference" "R31" (at 73.66 71.1199 0)
+    (property "Reference" "R38" (at 73.66 71.1199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 73.66 73.6599 0)
@@ -656,16 +657,16 @@
     (instances
       (project "crossover"
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/28472e3b-9819-48c0-b63f-39bc09c5cac5"
-          (reference "R31") (unit 1)
+          (reference "R38") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/8c997b3b-7bf2-44b2-ab14-da860701b424"
-          (reference "R28") (unit 1)
+          (reference "R34") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/26fb0579-508e-4f39-8fcc-d72882569c12"
-          (reference "R23") (unit 1)
+          (reference "R26") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/6a6e002a-0565-47d4-a8fe-a1e284818334"
-          (reference "R23") (unit 1)
+          (reference "R42") (unit 1)
         )
       )
     )
@@ -674,7 +675,7 @@
   (symbol (lib_id "power:GNDREF") (at 71.12 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid aae2a006-49b3-4f21-8817-a9b78a3f9b2e)
-    (property "Reference" "#PWR0104" (at 71.12 86.36 0)
+    (property "Reference" "#PWR040" (at 71.12 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 71.12 85.09 0)
@@ -690,16 +691,16 @@
     (instances
       (project "crossover"
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/28472e3b-9819-48c0-b63f-39bc09c5cac5"
-          (reference "#PWR0104") (unit 1)
+          (reference "#PWR040") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/8c997b3b-7bf2-44b2-ab14-da860701b424"
-          (reference "#PWR0102") (unit 1)
+          (reference "#PWR037") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/26fb0579-508e-4f39-8fcc-d72882569c12"
-          (reference "#PWR014") (unit 1)
+          (reference "#PWR017") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/6a6e002a-0565-47d4-a8fe-a1e284818334"
-          (reference "#PWR014") (unit 1)
+          (reference "#PWR043") (unit 1)
         )
       )
     )
@@ -708,7 +709,7 @@
   (symbol (lib_id "power:GNDREF") (at 90.17 91.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid edd7b715-416f-46a6-ac36-44b28ce2eb66)
-    (property "Reference" "#PWR0103" (at 90.17 97.79 0)
+    (property "Reference" "#PWR041" (at 90.17 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 90.17 96.52 0)
@@ -724,16 +725,16 @@
     (instances
       (project "crossover"
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/28472e3b-9819-48c0-b63f-39bc09c5cac5"
-          (reference "#PWR0103") (unit 1)
+          (reference "#PWR041") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/8c997b3b-7bf2-44b2-ab14-da860701b424"
-          (reference "#PWR0101") (unit 1)
+          (reference "#PWR038") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/26fb0579-508e-4f39-8fcc-d72882569c12"
-          (reference "#PWR015") (unit 1)
+          (reference "#PWR018") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/6a6e002a-0565-47d4-a8fe-a1e284818334"
-          (reference "#PWR015") (unit 1)
+          (reference "#PWR044") (unit 1)
         )
       )
     )
@@ -742,7 +743,7 @@
   (symbol (lib_id "Device:R") (at 90.17 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f4a25671-2fbf-4709-9e45-4cee776e79c3)
-    (property "Reference" "R32" (at 92.71 81.2799 0)
+    (property "Reference" "R39" (at 92.71 81.2799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K" (at 92.71 83.8199 0)
@@ -759,16 +760,16 @@
     (instances
       (project "crossover"
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/28472e3b-9819-48c0-b63f-39bc09c5cac5"
-          (reference "R32") (unit 1)
+          (reference "R39") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/8c997b3b-7bf2-44b2-ab14-da860701b424"
-          (reference "R29") (unit 1)
+          (reference "R35") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/26fb0579-508e-4f39-8fcc-d72882569c12"
-          (reference "R24") (unit 1)
+          (reference "R27") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/6a6e002a-0565-47d4-a8fe-a1e284818334"
-          (reference "R24") (unit 1)
+          (reference "R43") (unit 1)
         )
       )
     )
@@ -777,7 +778,7 @@
   (symbol (lib_id "Device:R") (at 120.65 68.58 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f6db2cd5-903b-4b8a-a1c2-83eb87763e48)
-    (property "Reference" "R33" (at 120.65 62.23 90)
+    (property "Reference" "R40" (at 120.65 62.23 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100" (at 120.65 64.77 90)
@@ -794,16 +795,16 @@
     (instances
       (project "crossover"
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/28472e3b-9819-48c0-b63f-39bc09c5cac5"
-          (reference "R33") (unit 1)
+          (reference "R40") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/8c997b3b-7bf2-44b2-ab14-da860701b424"
-          (reference "R30") (unit 1)
+          (reference "R36") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/26fb0579-508e-4f39-8fcc-d72882569c12"
-          (reference "R27") (unit 1)
+          (reference "R28") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/6a6e002a-0565-47d4-a8fe-a1e284818334"
-          (reference "R27") (unit 1)
+          (reference "R44") (unit 1)
         )
       )
     )
