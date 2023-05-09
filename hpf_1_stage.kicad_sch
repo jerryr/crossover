@@ -192,7 +192,7 @@
       (property "Datasheet" "" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_keywords" "power-flag" (at 0 0 0)
+      (property "ki_keywords" "global power" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground" (at 0 0 0)
@@ -240,7 +240,6 @@
       )
     )
   )
-
 
   (junction (at 115.57 63.5) (diameter 0) (color 0 0 0 0)
     (uuid 7e237cad-028b-44fa-b8f2-50ef62361876)
