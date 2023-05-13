@@ -425,7 +425,7 @@
     (property "Value" "TL074" (at 105.41 68.58 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_SO:SOIC-14-16_3.9x9.9mm_P1.27mm" (at 104.14 60.96 0)
+    (property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" (at 104.14 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf" (at 106.68 58.42 0)
