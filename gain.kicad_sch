@@ -462,14 +462,14 @@
     )
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL074") (at 109.22 68.58 0) (unit 1)
+  (symbol (lib_id "Amplifier_Operational:TL074") (at 109.22 68.58 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1269f9a2-f185-412e-bfc7-85e400237e5f)
-    (property "Reference" "U4" (at 109.22 63.5 0)
-      (effects (font (size 1.27 1.27)) (justify left))
+    (property "Reference" "U4" (at 109.22 59.69 0)
+      (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "TL074" (at 109.22 73.66 0)
-      (effects (font (size 1.27 1.27)) (justify left))
+    (property "Value" "TL074" (at 109.22 62.23 0)
+      (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" (at 107.95 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -494,13 +494,13 @@
     (instances
       (project "crossover"
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/28472e3b-9819-48c0-b63f-39bc09c5cac5"
-          (reference "U4") (unit 1)
+          (reference "U4") (unit 3)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/8c997b3b-7bf2-44b2-ab14-da860701b424"
           (reference "U4") (unit 2)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/26fb0579-508e-4f39-8fcc-d72882569c12"
-          (reference "U4") (unit 3)
+          (reference "U4") (unit 1)
         )
         (path "/3c8df2a5-e9f9-4495-af40-aa221f0b3fa5/6a6e002a-0565-47d4-a8fe-a1e284818334"
           (reference "U4") (unit 4)
